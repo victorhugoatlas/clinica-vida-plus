@@ -1,0 +1,21 @@
+# Python / Django
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+*.log
+
+# Ambiente Virtual
+venv/
+env/
+ENV/
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
